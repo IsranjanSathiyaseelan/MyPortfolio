@@ -34,13 +34,15 @@ const MySkills = () => {
       `}</style>
 
       <div className="max-w-6xl mx-auto text-center mb-10">
-        <h2 className="text-3xl font-extrabold  text-purple-500 uppercase mb-2 tracking-wide">My Skills</h2>
+        <h2 className="text-2xl font-extrabold text-purple-500 uppercase mb-2 tracking-wide">
+          My Skills
+        </h2>
       </div>
 
-      <div className="w-full relative select-none">
+      <div className="overflow-hidden max-w-5xl mx-auto relative select-none">
         {/* Marquee Content */}
         <div
-          className="marquee-inner flex will-change-transform min-w-[200%]"
+          className="marquee-inner flex will-change-transform min-w-[100%]"
           style={{ animationDuration: "25s" }}
         >
           <div className="flex gap-12 px-4">
