@@ -4,7 +4,7 @@ import {
   CodeBracketIcon,
   AcademicCapIcon,
   BriefcaseIcon,
-} from "@heroicons/react/24/outline"; // <-- Import icons
+} from "@heroicons/react/24/outline"; 
 
 const cardData = [
   {

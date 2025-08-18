@@ -2,6 +2,7 @@ import Image from "next/image";
 import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
 import AboutMe from "./components/AboutMe";
+import MySkills from "./components/MySkills";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <div className="container mx-auto px-12 py-18">       
       <HeroSection/>
       <AboutMe/>
+      <MySkills/>
       </div>
     </main>
   );
