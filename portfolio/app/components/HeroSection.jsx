@@ -5,8 +5,8 @@ import { TypeAnimation } from "react-type-animation";
 
 const HeroSection = () => {
   return (
-    <section className="py-10 sm:py-20 ">
-      <div className="grid grid-cols-1 sm:grid-cols-12 gap-8">
+    <section className="mt-9 sm:py-20">
+      <div className="grid grid-cols-1 sm:grid-cols-12 gap-8 max-w-6xl w-auto">
         {/* Text Section */}
         <div className="sm:col-span-7 place-self-center text-center sm:text-left">
           <h1 className="text-white mb-4 text-3xl sm:text-4xl lg:text-5xl font-extrabold">
