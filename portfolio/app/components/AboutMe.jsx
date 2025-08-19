@@ -26,7 +26,7 @@ const cardData = [
   },
   {
     title: "Projects",
-    description: "All the projects that i have built is for my academic purpose",
+    description: "I have constructed all of my projects for the intention of achieving my academic goals.",
     icon: <BriefcaseIcon className="h-10 w-10 text-white mb-4" />,
   },
 ];
@@ -40,9 +40,6 @@ const AboutMe = () => {
       <div className="max-w-6xl mx-auto">
         {/* Heading */}
         <div className="mb-16 text-left">
-          <p className="text-sm text-purple-500 uppercase mb-2 tracking-wide">
-            Introduction
-          </p>
           <h2 className="text-5xl font-extrabold mb-6 text-white">AboutMe</h2>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-4 lg:text-xl leading-relaxed">
             I’m a software developer with a strong foundation in
