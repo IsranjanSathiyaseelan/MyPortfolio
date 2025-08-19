@@ -17,7 +17,7 @@ const skills = [
 
 const MySkills = () => {
   return (
-    <section className="py-20 px-4 sm:px-6 lg:px-8  text-white">
+    <section className="py-3 px-4 sm:px-6 lg:px-8  text-white">
       <style>{`
         .marquee-inner {
           animation: marqueeScroll 20s linear infinite;
