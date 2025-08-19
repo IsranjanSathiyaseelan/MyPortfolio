@@ -1,11 +1,6 @@
 "use client";
 import React from "react";
-import {
-  FaEnvelope,
-  FaMapMarkerAlt,
-  FaLinkedin,
-  FaReact,
-} from "react-icons/fa";
+import { FaEnvelope, FaPhone, FaLinkedin, FaReact } from "react-icons/fa";
 import { SiNextdotjs } from "react-icons/si";
 
 const Footer = () => {
@@ -26,8 +21,8 @@ const Footer = () => {
           </a>
 
           <div className="flex items-center gap-3">
-            <FaMapMarkerAlt size={22} />
-            <span className="text-sm font-medium">Wattala, Alwis Watta</span>
+            <FaPhone size={22} />
+            <span className="text-sm font-medium">+94 76 485 1474</span>
           </div>
 
           <a
