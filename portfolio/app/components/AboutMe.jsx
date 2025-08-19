@@ -8,12 +8,12 @@ import {
 
 const cardData = [
   {
-    title: "Languages",
+    title: "Technology",
     description: (
       <>
-        HTML, CSS, JavaScript
+        Java, C++, HTML, CSS, JavaScript
         <br />
-        React Js, Next Js
+        React Js, Next Js, tailwindcss
       </>
     ),
     icon: <CodeBracketIcon className="h-10 w-10 text-white mb-4" />,
@@ -44,16 +44,13 @@ const AboutMe = () => {
             Introduction
           </p>
           <h2 className="text-5xl font-extrabold mb-6 text-white">AboutMe</h2>
-          <p className="text-lg text-[#ADB7BE] max-w-4xl leading-relaxed">
+          <p className="text-[#ADB7BE] text-base sm:text-lg mb-4 lg:text-xl leading-relaxed">
             I’m a software developer with a strong foundation in
             JavaScript and extensive hands-on experience working with modern
             frameworks such as React, Node.js, and Next.js. I specialize in
             building scalable, high-performance web applications with a focus on
             user experience, responsive design, and efficient backend
-            integration. I am passionate about
-            writing clean, maintainable, and well-documented code, and I thrive
-            in collaborative, agile environments where problem-solving and
-            continuous learning are valued.
+            integration. 
           </p>
         </div>
 
