@@ -8,7 +8,7 @@ import {
 
 const cardData = [
   {
-    title: "Technology",
+    title: "Skills",
     description: (
       <>
         Java, C++, HTML, CSS, JavaScript
