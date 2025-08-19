@@ -31,7 +31,7 @@ const Projects = () => {
     <section className="py-20 px-4 sm:px-6 lg:px-8 text-white" id="projects">
       <div className="max-w-6xl mx-auto text-left mb-12">
         <h2 className="text-5xl font-extrabold mb-6">Projects</h2>
-        <p className="text-gray-300 text-lg max-w-3xl">
+        <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
           These projects represent a collection of my collaborative and
           individual work. Each one highlights different aspects of my skills,
           from problem-solving and working with modern technologies to
