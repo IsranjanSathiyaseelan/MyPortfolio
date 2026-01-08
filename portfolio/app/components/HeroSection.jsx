@@ -39,7 +39,7 @@ const HeroSection = () => {
 
           <div className="flex flex-col sm:flex-row items-center gap-4">
             <a
-              href="/Sathiyaseelan Isranjan_Resume.pdf"
+              href="/Isranjan_Resume.pdf"
               download
               target="_blank"
               rel="noopener noreferrer"
